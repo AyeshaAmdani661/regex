@@ -10,7 +10,7 @@ i ---> ignorecase flag
 
 g ---> global flag
 
-wildcard character ( . )   match any single/one character
+wildcard character ( . )  ---> match any one character
 
 [  ] ---> use for matching group of characters for example /b[iau]g/
 
